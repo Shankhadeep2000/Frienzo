@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561618402377",
+    "project_id": "frienzo-52b23",
+    "storage_bucket": "frienzo-52b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561618402377:android:bbb8cb943c53a1e376d398",
+        "android_client_info": {
+          "package_name": "com.sarkar.frienzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561618402377-696mn6bk8hf4ja658rh9r1gt5oheu791.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarkar.frienzo",
+            "certificate_hash": "91d9d50d09f6abf440e27aeff22cd7d3e59339f1"
+          }
+        },
+        {
+          "client_id": "561618402377-rma5gic22rd425csgvb9birm2el0nvqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bEH_LFRXGobd15m2CJ3RZkIYd33A3Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561618402377-rma5gic22rd425csgvb9birm2el0nvqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
