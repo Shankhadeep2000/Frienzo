@@ -1,4 +1,5 @@
 # Frienzo
+THIS THE LINK FOR SCREEN RECORDING OF MY APP WHICH I SUBMITED IN HACKATHON:[https://youtu.be/YYgEOQ4O1a8]
 This is an chatting I developed during an Hackathon 2k21 .It is a chatting app where people can chat , update there status, give feeling to the messages, etc.
 
 It mainly contains sign up page which has two ways : Phone Number or By email You can signIn through email and Google ;
