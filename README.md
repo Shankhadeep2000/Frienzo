@@ -125,6 +125,11 @@ external libraries:
                 exclude group: "com.android.support", module: "support-compat"
                 exclude group: "com.android.support", module: "support-media-compat"
             }
+    implementation ('de.hdodenhof:circleimageview:3.1.0')
+            {
+                exclude group: "com.android.support", module: "support-compat"
+                exclude group: "com.android.support", module: "support-media-compat"
+            }
  
  
  Each have their own uses.
