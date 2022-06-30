@@ -29,7 +29,17 @@ It is possible for a person thet he/she may send wrong message to a person or in
 A person can add feelings to your message like some emoji's. It is an advanced world if a person wants to express his/her feelings regarding a message the use emoji ,
 and send it again but in this app you can give the emoji to a particular message.
 
+## Screenshots of the application:
+![Screenshot_20210620-140842_Google Play services](https://user-images.githubusercontent.com/75299574/176610087-99efca00-9035-4f72-8660-324ad61854a3.jpg)
+
+![Screenshot_20210620-140650_Frienzo](https://user-images.githubusercontent.com/75299574/176610184-a8d58f03-cce8-44ed-a35c-81cced8e73cd.jpg)
+
+![Screenshot_20210620-135844_Frienzo](https://user-images.githubusercontent.com/75299574/176610226-64ac5c89-3ccc-4c31-b302-7ca2b908a080.jpg)
+![Screenshot_20210620-135924_Frienzo](https://user-images.githubusercontent.com/75299574/176610244-9955fc31-64dd-40dd-9e6a-11da178c7f0a.jpg)
+![Screenshot_20210620-135844_Frienzo](https://user-images.githubusercontent.com/75299574/176610330-56d86f4c-1ee2-46f5-b0a7-00aaac3139db.jpg)
+
 Challenges I ran into:
+
 I ran various Challenges:-
 1. I got many errors when I import the external libraries into my project.
 it is giving android.support.v4.app.INotificationSideChannel found in modules core-1.5.0-runtime (androidx.core:core:1.5.0) and
